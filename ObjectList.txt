@@ -1,0 +1,6 @@
+[Monster]
+1:Monster1
+2:Monster2
+3:Monster3
+[Block]
+1:Block1

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aba99497-188b-4599-a1bc-2a98e4416964" name="Default" comment="first commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/5.tree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fnm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.nrm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tii" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments.gen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fdt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fdx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fnm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.frq" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.nrm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.tii" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.tis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainMenuImage.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainMenuImage3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster1Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster1Move.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster2Attack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster4Attack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster5Attack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster6Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster7Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster8Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster9Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attack.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backSound.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/background2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/baseHP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/box1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bullet0-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bullet0-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bullet0-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bullet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bullet1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bullet3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bullet3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/damage.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmae.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/level.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mission.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mission2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monste.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster1Attack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster1Attack2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster2Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster3Attack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster3Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster3Move.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster4Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monster5Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pause.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerAttack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerAttack2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerAttack3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerBaseHP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerDash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerDefense.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerHP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerHealing.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerInit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerMove.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playerdeify.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/HP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/attack.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/baseHP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/damage.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/game.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/gmae.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/hard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/monster1Attack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/monster1Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/monster2Attack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/monster2Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/monster3Attack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/monster3Init.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/playerAttack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/playerBaseHP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/playerDash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/playerHP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/playerInit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/playerMove.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/stage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/st.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/repositories_xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.p15fv2-laptop_4640/FP.local.files_0/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.p15fv2-laptop_4640/H.local_16/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.p15fv2-laptop_4640/node.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.ui/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/introstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/version.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BackGround/BackGround1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Block/Block1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Block/Block2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frame/GameFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frame/MainMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frame/MissionStory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frame/RoomCreate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frame/RoomInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frame/StopMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frame/StoryMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frame/StoryRoom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GameProject (3).iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Listener/Creator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Listener/DisposeListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Listener/GotoPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Listener/MyListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Listener/RoomCreateListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main/Project.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main/Sound.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Modify/ObjectSel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Modify/StageSel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Modify/StatusSel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster/Monster1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster/Monster2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster/Monster3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster/Monster4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster/Monster5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster/Monster6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster/Monster7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster/Monster8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monster/Monster9.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/BackGround.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/BaseObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/Block.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/Bullet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/Bullet2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/BulletOfCharacter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/BulletOfMonster.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/BulltOfMagic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/BulltOfPass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/Hp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/Magic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/Monster.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/MoveObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectList.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RemoteSystemsTempFiles/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/magic.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/stage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/필독.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stageTmp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/몬스터 패턴 ex.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/필독.txt" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="701" />
+    <option name="y" value="22" />
+    <option name="width" value="1184" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GameProject (3)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GameProject (3)" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aba99497-188b-4599-a1bc-2a98e4416964" name="Default" comment="" />
+      <created>1514116547737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514116547737</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1514116844356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514116844356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="701" y="22" width="1184" height="977" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
